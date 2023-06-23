@@ -6,13 +6,4 @@
     "sha256_cert_fingerprints":
     ["C9:DE:53:35:06:BB:B6:78:C8:49:B8:53:7D:19:C7:62:5D:B0:21:6C:23:65:16:9F:D0:FD:43:4A:95:A0:FE:FE"]
   }
-},
-{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.vardacare.vardacareapp.dev",
-    "sha256_cert_fingerprints":
-    ["23:59:EE:F2:96:27:7B:4F:2F:66:13:16:A3:39:D6:74:9C:A2:44:DB:23:AC:A9:C2:9C:88:B8:F6:89:96:57:C4"]
-  }
 }]
